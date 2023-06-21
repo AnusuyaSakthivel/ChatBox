@@ -9,5 +9,7 @@ Last seen code
 
 Attachment (Image, Audio, Video) code
 
-hiding last seen details
+Hiding last seen details
+Adding the video calls feature
 
+Adding the audio calls features
